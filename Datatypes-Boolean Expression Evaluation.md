@@ -31,3 +31,4 @@ print("d:",d)
 ![image](https://github.com/user-attachments/assets/f65494b6-a0d1-45da-acbf-d94e5dc7fc6d)
 
 ## Result
+Thus, the python program was executed successfully
